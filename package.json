@@ -1,5 +1,23 @@
 {
-"name": "What Isn't Saved",
-"version": "0.1.0",
-"main": "main.js"
+  "name": "wis-electron",
+  "version": "1.0.0",
+  "description": "The project file for What Isn't Saved.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/catacalypto/wis-electron.git"
+  },
+  "author": "Cat Manning",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/catacalypto/wis-electron/issues"
+  },
+  "homepage": "https://github.com/catacalypto/wis-electron#readme",
+  "devDependencies": {
+    "ncp": "^2.0.0",
+    "rimraf": "^2.6.2"
+  }
 }
